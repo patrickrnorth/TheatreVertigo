@@ -204,7 +204,7 @@ The Part Index page required a bit of css to make sure it was inline with the fo
 ## Button Stacking Bug
 This story was to fix an issue where two buttons on the navbar would get stacked when reduced to a smaller screen size. It took some time to realize the bootstrap that was assigned to the navbar was not set properly. From there, I just changed the grid layouts for the buttons that were stacking and it was fixed.
 
-*Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Tech](#tech), [Page Top](#live-project)*
+*Jump to: [Front End Stories](#front-end-stories), [Other Skills](#other-skills-learned), [Tech](#tech), [Page Top](#live-project)*
 
 ## Other Skills Learned
 * Working with a group of developers to identify front end bugs to the improve usability of an application
@@ -213,7 +213,7 @@ This story was to fix an issue where two buttons on the navbar would get stacked
 * Became familiar with AGILE and SCRUM methodologies using Microsoft Azure.
 * Became more familiar with Entity Framework 6 Code First using MVC 5.
     
-*Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Tech](#tech), [Page Top](#live-project)*
+*Jump to: [Front End Stories](#front-end-stories), [Other Skills](#other-skills-learned), [Tech](#tech), [Page Top](#live-project)*
 
 ### Tech
 
@@ -226,4 +226,4 @@ We used many languages and methodologies in the creation of the CMS for Theatre 
 * Entity Framework 6
 * MVC5
 
-*Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Tech](#tech), [Page Top](#live-project)*
+*Jump to: [Front End Stories](#front-end-stories), [Other Skills](#other-skills-learned), [Tech](#tech), [Page Top](#live-project)*
